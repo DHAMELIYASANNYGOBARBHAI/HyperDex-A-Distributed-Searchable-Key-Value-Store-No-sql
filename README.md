@@ -1,0 +1,2 @@
+# HyperDex-A-Distributed-Searchable-Key-Value-Store-No-sql
+Now a day, distributed databases are main component for high performance services and specially for cloud computing apps use this concept. key value store gives significant advantage on performance and scalability over old databases.In this term paper we are going to discuss how key value works on Hyperdex. Why we prefers to use hyperdex over traditional databases
